@@ -2,7 +2,7 @@
 
 API web ASP.NET Core avec MongoDB, authentification JWT et autorisation par rôles.
 
-**TP ESP/UCAD — DIC3 INFO — 2025/2026**
+**TP .NET — DIC3 INFO — 2025/2026**
 
 ## Prérequis
 
@@ -90,4 +90,4 @@ TodoApi/
 
 ## Auteur
 
-mtseck — ESP/UCAD DIC3 INFO — 2025/2026
+mtseck — ESP DIC3 INFO — 2025/2026
